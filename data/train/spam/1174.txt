@@ -1,0 +1,16 @@
+From: "BANCO MERCANTIL ARGENTINO S.A." <TGFQSZRRH@dcemail.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Instant branded software download
+Date: Tue, 19 Jul 2005 06:54:43 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--5557909990027504668"
+
+----5557909990027504668
+Content-Type: text/plain;
+	charset="iso-3824-2"
+Content-Transfer-Encoding: 7bit
+
+http://balcony.realoemsales.com/?a=3107
+
+----5557909990027504668--

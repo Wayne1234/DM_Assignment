@@ -1,0 +1,24 @@
+From: Mandy Hairston <Quincy@nline.no>
+To: 19991123234518.a31001 <19991123234518.a31001@em.ca>
+Subject: You order: Sony DSC-F828 8.0MP Digital Camera
+MIME-Version: 1.0 (produced by driptraverse 2.9)
+Content-Type: multipart/alternative;
+	boundary="--43818681445972044"
+
+----43818681445972044
+Content-Type: text/html;
+	charset="iso-9084-4"
+Content-Transfer-Encoding: 7Bit
+Content-Description: burtt countersunk jocular
+
+Sony DSC-F828 8.0MP Digital Camera<br><br> 
+ 
+
+Your order # 12405 has been accepted for the amount 840.00$ <br> 
+Your card will be charged in that amount .Thank you for your purchase.<br><br><br> 
+  
+  
+You can check the order in your profile. <br><br> 
+<a href="http://fullssize.biz">http://fullssize.biz</a> 
+
+----43818681445972044--

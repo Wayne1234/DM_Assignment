@@ -1,0 +1,35 @@
+From: "Warren Alford" <buuujtsx@yahoo.com>
+Content-Class: urn:content-classes:message/text
+Location: maldistribute drank adjective
+To: "Bait" <bait@em.ca>
+Subject: Message subject
+Date: Thu, 24 Mar 2005 10:49:56 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--340223651770706605"
+
+----340223651770706605
+Content-Type: text/plain;
+	charset="iso-0261-2"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We sent you an email a while ago, because you now qualify
+for a much lower rate based on the biggest rate drop in years.
+
+You can now get $325,000 for as little as $615 a month!
+Bad credit? Doesn't matter, low rates are fixed no matter what!
+
+Follow this link to process your application and a 24 hour approval:
+
+http://www.123lenderz.com/x/loan.php?id=3Dsas
+
+
+Best Regards,
+Gwen Ramos
+
+http://www.123lenderz.com/x/st.html
+
+
+----340223651770706605--

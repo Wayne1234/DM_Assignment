@@ -1,0 +1,41 @@
+From: "heddie helkaa" <GHFASPHPCRMR@lahn.net>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: The Results of Your Application
+Date: Mon, 16 May 2005 17:31:50 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--882744_518442.kn949"
+Content-Length: 822
+Lines: 30
+
+----882744_518442.kn949
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+We tried to contact you earlier about financing your home at a lower rate.<br>
+We would like to let you know that we have gone ahead and started<br>
+the approval process,<p>
+
+Here are the results:<br>
+*Negotiable Amount: $200,000 - $600,000<br>
+*Rate: 4.87% - 5.36%<p>
+
+Please fill out this form and a broker will contact you soon.<br>
+<a href="http://www.lendisx.net/index2.php?refid=mal">Processing Form</a><p>
+Best Regards,<p>
+
+Carl Harrison,<br>
+Account Manager<p>
+
+---------------------<p>
+
+No future contact:<br>
+<a href="http://www.lendisx.net/r.php">no thanks</a>
+<p>
+bostockcaitrinfalsegoatherd
+</html>
+
+----882744_518442.kn949--

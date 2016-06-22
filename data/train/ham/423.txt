@@ -1,0 +1,16 @@
+From: susan.scott@enron.com
+To: michelle.lokay@enron.com
+Subject: EOL webtext
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Susan Scott
+X-To: Michelle Lokay
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+Here is my proposed webtext for FTS-1.  Note I've left blanks for you to fill 
+in points.  
+Text for other services is forthcoming.

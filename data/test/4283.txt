@@ -1,0 +1,14 @@
+From: reggie.stotts@enron.com
+To: earl.chanley@enron.com, michelle.lokay@enron.com
+Subject: Pogo Work Order
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Reggie Stotts
+X-To: Earl Chanley, Michelle Lokay
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+The number for the POGO is C:003955.01

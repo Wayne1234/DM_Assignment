@@ -1,0 +1,59 @@
+From: "Lucia Foster" <Citibank.message@emailmessage.citibank.com>
+To: <asetar@em.ca>
+Subject: ATTN: Security Update from Citibank MsgID# 92379245
+Date: Tue, 21 Sep 2004 21:51:47 +0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--419776125423611"
+
+----419776125423611
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<title>Untitled Document</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859=
+-1">
+</head>
+
+<body bgcolor=3D"#FFFFFF" text=3D"#000000">
+CITIBANK(R) 
+<p>Dear Citibank Customer:</p>
+<p>Recently there have been a large number computer terrorist attacks over=
+ our 
+  database server. In order to safeguard your account, we require that you=
+ update 
+  your Citibank ATM/Debit card PIN. </p>
+<p>This update is requested of you as a precautionary measure against frau=
+d. Please 
+  note that we have no particular indications that your details have been =
+compromised 
+  in any way.</p>
+<p>This process is mandatory, and if not completed within the nearest time=
+ your 
+  account may be subject to temporary suspension.</p>
+<p>Please make sure you have your Citibank ATM/Debit card and your login d=
+etails 
+  at hand.</p>
+<p>To securely update your Citibank ATM/Debit card PIN please go to:</p>
+<p><a href=3D"http://219.138.133.5/customer/">Customer Verification 
+  Form</a></p>
+<p>Please note that this update applies to your Citibank ATM/Debit card - =
+which 
+  is linked directly to your checking account, not Citibank credit cards.<=
+/p>
+<p>Thank you for your prompt attention to this matter and thank you for us=
+ing 
+  Citibank!</p>
+<p>Regards,</p>
+<p>Customer Support MsgID# 92379245</p>
+<p>(C)2004 Citibank. Citibank, N.A., Citibank, F.S.B., <br>
+  Citibank (West), FSB. Member FDIC.Citibank and Arc <br>
+  Design is a registered service mark of Citicorp.</p>
+</body>
+</html>
+
+
+----419776125423611--
+

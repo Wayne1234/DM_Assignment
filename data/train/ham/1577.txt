@@ -1,0 +1,22 @@
+From: stacey.neuweiler@enron.com
+To: daren.farmer@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stacey Neuweiler
+X-To: Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Here's my performance evaluation choices:
+
+Gary Hanks - pipeline operations 
+Morgan Sharifi - desk to desk business
+Greg Steagall - transportation/invoicing
+Julie Meyers - contract admin
+Charlotte Hawkins - HPLC ops
+
+Please let me know if you think I should list anyone else.  Thanks.

@@ -1,0 +1,21 @@
+From: "eBay Security Service" <service@ebay.com>
+Reply-To: "eBay Security Service" <service@ebay.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Security Alert - Confirm Your eBay Information
+Date: Tue, 19 Jul 2005 22:58:30 -0400
+X-Mailer: eGroups Message Poster
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--18444557005672604468"
+X-Priority: 3
+X-MSMail-Priority: Normal
+
+----18444557005672604468
+Content-Type: text/plain
+X-Removed: Removed by NOD32 Antivirus System
+
+
+
+
+----18444557005672604468--
+

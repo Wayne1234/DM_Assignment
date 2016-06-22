@@ -1,0 +1,20 @@
+From: executiveadvice@aol.com
+To: sally.beck@enron.com
+Subject: example letter
+Cc: patti.thompson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: patti.thompson@enron.com
+X-From: Executiveadvice@aol.com
+X-To: <sally.beck@enron.com>
+X-cc: <patti.thompson@enron.com>
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Sally
+I do not believe this attachment came through with my previos e-mail.
+Tom
+
+ - Example letter Sally risk offsite.doc

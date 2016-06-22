@@ -1,0 +1,29 @@
+From: "Ricky Hurt" <Kieth.Jordan@orionsys.com>
+To: webmaster@ezmlm.org
+Cc: bugs@ezmlm.org
+Subject: Your form was accepted. Welcome Aboard
+Date: Sat, 11 Sep 2004 22:41:10 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--6813492562031483"
+
+----6813492562031483
+Content-Type: text/html;
+	charset="iso-6804-2"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible for a 2.3% rate and a $400,000 loan.
+<p>
+Please verify your information here:<br>
+ <a href="http://centrex.ondemandloan.info/s6/ke.php?jq1=55">http://centrex.ondemandloan.info/s6/ke.php?jq1=55</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<br>
+Ricky Hurt<br>
+Senior Account Manager<br>
+Webber Financial Association
+</html>
+
+----6813492562031483--

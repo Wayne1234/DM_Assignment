@@ -1,0 +1,15 @@
+From: kevin.hyatt@enron.com
+To: market.team@enron.com
+Subject: New weekend access code
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kevin Hyatt
+X-To: Market Team
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+The new code effective 12/16 is 6648482
+thanks

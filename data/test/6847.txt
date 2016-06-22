@@ -1,0 +1,31 @@
+From: "Byron*Weiss" <depressive.phalanx@over21.com>
+To: bugs@ezmlm.org
+Cc: webmaster@ezmlm.org
+Subject: Here is your New Password
+Date: Tue, 05 Oct 2004 05:24:29 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--50287649229860672"
+
+----50287649229860672
+Content-Type: text/html;
+	charset="iso-9818-3"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+Dear Applicant,<p>
+Your application was processed and approved. You are eligible to receive $400,000 with a 2.1% rate.
+<p>
+Please verify your information here:<br>
+ <a href="http://lenderto.net/?partid=rm2342">http://lenderto.net/?partid=rm2342</a><p>
+
+We look forward to hearing from you.<p>
+Regards,<p>
+
+Byron*Weiss, Client Account Manager<br>
+Lawrence Financial Association<br>
+220 Central Avenue<br>
+Columbus, OH 43085
+</html>
+
+----50287649229860672--

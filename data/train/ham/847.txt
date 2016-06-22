@@ -1,0 +1,22 @@
+From: sarah_m_vargas@hotmail.com
+To: dfarmer@enron.com
+Subject: Test to dfarmer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Sarah Vargas" <sarah_m_vargas@hotmail.com>
+X-To: dfarmer@enron.com
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Doug:
+
+Please let me know if you receive this e-mail, by replying to it.  This is a
+test to:
+dfarmer@enron.com
+
+Thanks.  Sarah.
+______________________________________________________
+Get Your Private, Free Email at http://www.hotmail.com

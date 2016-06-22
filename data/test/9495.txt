@@ -1,0 +1,32 @@
+From: "Eldon Lutz" <endgame_fair712@bezeqint.net>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: To Accept This Offer Today!
+Date: Thu, 14 Oct 2004 23:41:16 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--169543888953332108"
+Content-Length: 492
+Lines: 21
+
+----169543888953332108
+Content-Type: text/html;
+	charset="iso-5685-9"
+Content-Transfer-Encoding: 7Bit
+
+<html>
+
+Dear Applicant,<p>
+
+Because you're a valued member, you're been approved for a loan of $350,000.<br>
+Accept this offer before 10/16/2004 and start enjoying your loan today.<p>
+
+Accept today at:<br>
+<a href="http://polar.moneyanalysis.net/s6/jj.php?n5n=63">http://polaroid.moneyanalysis.net/s6/jj.php?n5n=63</a><p>
+Sincerely,<br>
+PayLoan Co.<br>
+
+</html>
+
+
+----169543888953332108--

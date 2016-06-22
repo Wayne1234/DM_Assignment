@@ -1,0 +1,16 @@
+From: "BELLCO FIRST FEDERAL CREDIT UNION" <TNBCBIYMXKHK@dcemail.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Branded softs
+Date: Tue, 19 Jul 2005 06:36:20 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--81476933353720416277"
+
+----81476933353720416277
+Content-Type: text/plain;
+	charset="iso-7947-8"
+Content-Transfer-Encoding: 7bit
+
+http://p's.mainoemstore.com/?a=3107
+
+----81476933353720416277--

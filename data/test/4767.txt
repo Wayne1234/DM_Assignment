@@ -1,0 +1,36 @@
+From: "Sarah Prather" <SarahgPratherg@gaweb.com>
+Message-ID: <481825292253.7eb1e4674654@gaweb.com>
+X-Mailer: vBulletin Mail via PHP
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+Date: Thu, 17 Feb 2005 17:46:23 -0500
+X-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner: Found to be clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.gaweb.com
+X-AntiAbuse: Original Domain - graffiti.net
+X-AntiAbuse: Originator/Caller UID/GID - [20 17] / [20 12]
+X-AntiAbuse: Sender Address Domain - gaweb.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+Current Matches:
+
+1.
+Sarah Prather is within 22 miles from your
+location.  She is married, but her husband is away
+almost every weekend and some weeknights.
+
+2.
+Danielle Owens is within 18 miles from your
+location.  She is married but looking for another
+relationship while her husband is on the road.
+
+Email address and Pictures of your matches are available:
+http://valentinescenter.com/d/6.php
+
+
+Not For Me?
+http://valentinescenter.com/bye/

@@ -1,0 +1,30 @@
+From: "NTGOSPEL.COM" <TUDO@ntgospel.zzn.com>
+To: <webmaster@ezmlm.org>
+Subject: TUDO QUE VOC?PRECISA SABER!!!
+Mime-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Date: Mon, 17 Jan 2005 01:05:27
+Content-Length: 648
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>O MELHOR POINT GOSPEL NA NET</title>
+</head>
+
+<frameset framespacing="0" border="0" frameborder="0" rows="21,*">
+  <frame name="cabeçalho" scrolling="no" noresize target="principal" src="e-mail-cabecalho.htm">
+  <frame name="principal" src="http://www.ntgospel.com/e-mail.html" scrolling="auto">
+  <noframes>
+  <body>
+
+  <p>Esta página usa quadros mas seu navegador não aceita quadros.</p>
+
+  </body>
+  </noframes>
+</frameset>
+
+</html>

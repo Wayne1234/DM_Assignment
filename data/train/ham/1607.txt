@@ -1,0 +1,14 @@
+From: david.oxley@enron.com
+To: louise.kitchen@enron.com
+Subject: Do I need to be in this meeting?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Oxley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DOXLEY>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+I figured HR was on at 2pm?

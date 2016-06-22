@@ -1,0 +1,17 @@
+From: robert.cotten@enron.com
+To: daren.farmer@enron.com, o'neal.winfree@enron.com
+Subject: KCS Resources nom - April 1
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Robert Cotten
+X-To: Daren J Farmer, O'Neal D Winfree
+X-cc: 
+X-bcc: 
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The nom for KCS Resources (deal # 125822) at meter # 9658 has been revised 
+from 7,129 to 5,500.
+
+Bob

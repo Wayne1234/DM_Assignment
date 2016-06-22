@@ -1,0 +1,16 @@
+From: eBay Security  <aw-confirm@ebay.com>
+Reply-To: aw-confirm@ebay.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1DnLhI-0007F4-TZ@server789.dnslive.net>
+Date: Tue, 28 Jun 2005 12:24:41 -0700
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server789.dnslive.net
+X-AntiAbuse: Original Domain - blackhole.djpappas.org
+X-AntiAbuse: Originator/Caller UID/GID - [32387 32390] / [47 12]
+X-AntiAbuse: Sender Address Domain - server789.dnslive.net
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+

@@ -1,0 +1,14 @@
+From: christine.stokes@enron.com
+To: michelle.lokay@enron.com
+Subject: Chart Info
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Christine Stokes
+X-To: Michelle Lokay
+X-cc: 
+X-bcc: 
+X-Origin: LOKAY-M
+X-FileName: mlokay.nsf
+
+Here it is.

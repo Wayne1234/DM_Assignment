@@ -1,0 +1,38 @@
+From: "R.Walls" <R.Walls@flashmail.com>
+Message-ID: <934776478109.7eb1e1507840@flashmail.com>
+X-Mailer: vBulletin Mail via PHP
+Content-Type: text/plain; charset="ISO-8859-1"
+Date: Wed, 20 Apr 2005 22:03:55 -0400
+X-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner: Found to be clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.flashmail.com
+X-AntiAbuse: Original Domain - 123mail.net
+X-AntiAbuse: Originator/Caller UID/GID - [66 56] / [31 12]
+X-AntiAbuse: Sender Address Domain - flashmail.com
+X-Spam-Status: No, score=-14.7 required=5.0 tests=TEST_MESSAGE,
+     MIME_BOUND_NEXTPART,NO_REAL_NAME,USER_IN_DEF_WHITELIST autolearn=no
+     version=3.0.1
+
+
+We tried to contact you earlier about flnanclng your home at a lower rate.
+I would like to let you know that we have gone ahead and started 
+the preapproval process,
+
+Here are the results:
+
+*Account ID: [220-Bruceg-850]
+*Negotiable Amount: $95,118 to $249, 976
+*Rate: 3.52% - 5.32%
+
+For more information or to have a broker contact you please visit:
+http://crzantagonistic.1-m-n.com/formupdate.asp
+
+Best Regards,
+
+R.Walls,
+Account Manager
+
+
+No future contact:
+http://swkgiddy.1-m-n.com/gone.asp

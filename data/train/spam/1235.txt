@@ -1,0 +1,16 @@
+From: "THE COMMUNITY BANK" <DKKZGHDKLAXYVM@dcemail.com>
+To: projecthoneypot@projecthoneypot.org
+Subject: Software Megastore
+Date: Tue, 19 Jul 2005 06:58:59 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--433460351017399"
+
+----433460351017399
+Content-Type: text/plain;
+	charset="iso-3034-5"
+Content-Transfer-Encoding: 7bit
+
+http://grimaldi.mainoemstore.com/?a=3107
+
+----433460351017399--

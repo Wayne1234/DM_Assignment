@@ -1,0 +1,21 @@
+From: bob.hall@enron.com
+To: sally.beck@enron.com
+Subject: Accomplishments.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob M Hall
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Hope this help.
+
+thanks
+
+bob
+
+
+

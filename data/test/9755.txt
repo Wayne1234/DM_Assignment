@@ -1,0 +1,16 @@
+From: john.lavorato@enron.com
+To: david.oxley@enron.com
+Subject: 
+Cc: michelle.cash@enron.com, louise.kitchen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michelle.cash@enron.com, louise.kitchen@enron.com
+X-From: Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JLAVORA>
+X-To: Oxley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Doxley>
+X-cc: Cash, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcash>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Can you work you legalies into this form. 

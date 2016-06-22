@@ -1,0 +1,19 @@
+From: david.forster@enron.com
+To: louise.kitchen@enron.com
+Subject: EES
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Forster, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DFORSTER>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-cc: 
+X-bcc: 
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+
+Examples of EES working in ENA territory seem to keep coming.
+
+Anything further on this? 
+
+Dave

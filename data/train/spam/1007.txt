@@ -1,0 +1,6 @@
+From: eBay <accounts@ebay.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+

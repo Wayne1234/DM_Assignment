@@ -1,0 +1,20 @@
+From: grace.rodriguez@enron.com
+To: bill.williams@enron.com, geir.solberg@enron.com
+Subject: Associate/Analyst meeting on Thursday, July 5th
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rodriguez, Grace </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GRODRIQ>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Solberg, Geir </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsolber>
+X-cc: 
+X-bcc: 
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+As you know, the meeting with Ted Bland is set to begin at 11:00am. 
+
+FYI: It should go for about 2 hours or so. Lunch will be served.
+
+Let me know if you have any questions.
+
+-Grace

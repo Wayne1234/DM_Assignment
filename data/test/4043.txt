@@ -1,0 +1,41 @@
+From: "koo mendelso" <GKGRSQ@taubman.net>
+To: cvs@bruce-guenter.dyndns.org
+Cc: rait@bruce-guenter.dyndns.org
+Subject: Mortage Approval Confirmation
+Date: Sun, 15 May 2005 03:33:29 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="--53796_845595.ry39"
+Content-Length: 818
+Lines: 30
+
+----53796_845595.ry39
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7Bit
+
+<html><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+We tried to contact you earlier about flnancing your home at a lower rate.<br>
+We would like to let you know that we have gone ahead and started<br>
+the approval process,<p>
+
+Here are the results:<br>
+*Negotiable Amount: $250,000 - $700,000<br>
+*Rate: 4.87% - 5.36%<p>
+
+Please fill out this form and a broker will contact you soon.<br>
+<a href="http://www.lendinxsz.com/index2.php?refid=mal">Processing Form</a><p>
+Best Regards,<p>
+
+Kevin Garrett,<br>
+Account Manager<p>
+
+---------------------<p>
+
+No future contact:<br>
+<a href="http://www.lendinxsz.com/r.php">no thanks</a>
+<p>
+lovettmccleanarlinminne
+</html>
+
+----53796_845595.ry39--

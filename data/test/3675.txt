@@ -1,0 +1,22 @@
+From: grad.admissions@fit.edu
+To: bait-proverbs@em.ca
+Subject: hi
+Date: Thu, 2 Sep 2004 20:25:41 +1100
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="61151662"
+X-Qmail-Scanner-Message-ID: <10941169226728372@churchill>
+
+--61151662
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+here
+
+--61151662
+Content-Type: application/x-zip-compressed; name="attachment.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.zip"
+
+
+--61151662--
+
